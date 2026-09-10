@@ -1,0 +1,66 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+
+    font-family: "Google Sans", sans-serif;
+    text-shadow: 2px 2px 5px blue, -2px -2px 5px red;
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: purple;
+    font-family: "Google Sans", sans-serif;
+}
+
+#p1 {
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+    font-family: "Google Sans", sans-serif;
+
+}
+
+h3 {
+    color: darkgreen;
+    font-family: "Google Sans", sans-serif;
+}
+
+ol {
+
+    font-family: "Google Sans", sans-serif;
+}
+
+li {
+    color: darkred;
+    font-family: "Google Sans", sans-serif;
+}
+
+li:hover {
+    color: darkorange;
+    font-family: "Google Sans", sans-serif;
+}
+
+button {
+    background-color: lightgreen;
+    font-family: "Google Sans", sans-serif;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+    font-size: 25px;
+}
+
+button:active {
+    background-color: darkgreen;
+    color: white;
+}
